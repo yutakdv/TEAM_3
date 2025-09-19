@@ -18,7 +18,7 @@ import screen.*;
  * @author <a href="mailto:RobertoIA1987@gmail.com">Roberto Izquierdo Amo</a>
  *
  */
-public final class Core {
+public final class 123Core {
 
 	/** Width of current screen. */
 	private static final int WIDTH = 448;
